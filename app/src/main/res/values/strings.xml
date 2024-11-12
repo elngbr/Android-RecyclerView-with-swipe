@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="genre_values">
+        <item>Romance</item>
+        <item>Action</item>
+        <item>Drama</item>
+        <item>Comedy</item>
+    </string-array>
+</resources>
